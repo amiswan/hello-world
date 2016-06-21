@@ -5,8 +5,9 @@ using namespace std;
 
 int main()
 {
-cout<< “Hello World\n”;
-cout<<“What is your name?”;
+string name;
+cout<< "Hello World\n";
+cout<<"What is your name?";
 cin>>name;
-out<<“Welcome ”<<name<<“ to your first github process\n”;
+cout<<"Welcome "<<name<<" to your first github process\n";
 }
